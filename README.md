@@ -10,7 +10,7 @@ The dataset simulates how players make decisions under **high-risk and high-rewa
 
 ## Repository Structure
 
-
+```text
 AI-Assignment1_game-risk-decision-dataset/
 │
 ├── code/
